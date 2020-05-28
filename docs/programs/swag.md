@@ -26,4 +26,4 @@ You can select and de-select the checkboxes to manage which requests have been s
 
 ![swag](./images/swag-1.png)
 
-Your program is responsible for fulfillment and delivery of swag to the hacker.
+Your program is responsible for fulfillment and delivery of swag to the hacker
